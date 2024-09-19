@@ -8,6 +8,7 @@ packages = [{ include = "poetry_example" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+fastapi = "^0.115.0"
 
 
 [build-system]

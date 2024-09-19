@@ -25,3 +25,8 @@ You'd be able to run Python code from the command line and from Visual Studio Co
 ### macOS and Linux
 
 You'd be able to run Python code from the command line and from Visual Studio Code through the Python extension on host.
+
+Lab 01 
+
+Install Poetry : sudo apt install python3-poetry
+
