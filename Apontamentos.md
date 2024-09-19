@@ -1,4 +1,4 @@
-# cdPython Day 1 
+# Python Day 1 
 
 modo de depuração: se conecta a execução do codigo.
 
@@ -39,3 +39,36 @@ como criar grupos de dependencias :
 
 poetry add --group dev pytest
 
+cat pyproject.toml 
+
+Variaveis sempre em letras minusculas separadas por underscor
+
+Funçoes sao definições de variaveis, funções retornam coisas
+letras minusculas
+
+
+Definiçao ou atribuição: 
+
+
+`````python
+
+def func(a: str) -> str:
+    return "b"
+
+
+list_a: list[str] = ["a", "b"]
+
+Declarar um dicionario: coloca as chaves
+
+dict_a = {
+    "KeyA": "ValueB"
+    "KeyA": "ValueB"
+}
+
+dict_b = {
+    1: "a"
+    2: "b",
+}
+`````
+
+linter sao helpers sao instalados como biblioteca : 

@@ -2,7 +2,7 @@
 
 Now that you have a basic understanding of Python, it's time to create your first script. In this lab, you will write a simple Python script.
 
-## Prerequisites
+## Pre requisites
 
 - Python 3.x installed on your system
 - Poetry installed on your system
