@@ -72,3 +72,55 @@ dict_b = {
 `````
 
 linter sao helpers sao instalados como biblioteca : 
+
+# Day 2
+
+Condicional ( ELIF )
+
+IF
+ELIF
+ELSE
+
+WHILE
+FOR
+
+Condionais ternarias - 
+
+Break é usada para parar um loop
+
+continue 
+
+def: definição de funções : nome e parametros 
+
+return: a soma de dois parametros 
+
+classes : é definida como as caracteristicas do produto? agrupar os atributos que aquele objeto representa. 
+
+string "aaa"
+
+Metodo construtor: ___init___ : toda vez que instanciar uma classe , esse init vai ser executado: 
+
+criar uma instancia: 
+
+init é acionado toda vez que uma atribuiçao acontece: metodo construtor é aqueele que inicializa um variavel utilizando uma instancia de uma classe
+
+set : nao sao ordenados - a set is a colletion of items that are unordered and unindexed 
+
+
+python Project Structure
+
+my_project/
+
+src/
+tests/
+scripts/
+data/
+.gitignore
+pyproject.tonl
+readme.md
+
+
+os
+sys
+
+variavel de ambiente: define a nivel de execução na maquina.
